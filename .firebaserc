@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-74ace": {
+      "hosting": {
+        "empleados": [
+          "crud-74ace"
+        ]
+      }
+    }
+  }
+}
